@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="TUF"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2562-08-03 09:10:58 PM"/>
+        <attribute name="created" value="VFVGO0RFU0tUT1AtUjBVNko0MjsyNTYyLTA4LTAzOzA4OjU0OjM2IFBNOzI1NjM="/>
+        <attribute name="edited" value="VFVGO0RFU0tUT1AtUjBVNko0MjsyNTYyLTA4LTAzOzA5OjEwOjU4IFBNOzI7MjY2OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x" type="Real" array="False" size=""/>
+            <declare name="y" type="Real" array="False" size=""/>
+            <declare name="z" type="Real" array="False" size=""/>
+            <declare name="c" type="Real" array="False" size=""/>
+            <assign variable="x" expression="60"/>
+            <assign variable="y" expression="75"/>
+            <assign variable="z" expression="59"/>
+            <assign variable="c" expression="75"/>
+            <output expression="&quot;---------Your Score---------&quot;" newline="True"/>
+            <output expression="&quot;Foundation English&quot;" newline="True"/>
+            <output expression="&quot;General Business&quot;" newline="True"/>
+            <output expression="&quot;introductin to Computer Systems&quot;" newline="True"/>
+            <output expression="&quot;computer Progarmming&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
